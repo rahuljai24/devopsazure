@@ -1,5 +1,0 @@
-devops 
-azure
-ci cd
- aws
- gcp
